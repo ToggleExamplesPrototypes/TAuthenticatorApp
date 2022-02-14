@@ -1,0 +1,13 @@
+C:\Users\Jamie\Documents\GitHub\!ToggleExamplesPrototypes\TAuthenticatorApp\TAuthenticatorApp\TAuthenticatorApp\bin\Debug\TAuthenticatorApp.exe.config
+C:\Users\Jamie\Documents\GitHub\!ToggleExamplesPrototypes\TAuthenticatorApp\TAuthenticatorApp\TAuthenticatorApp\bin\Debug\TAuthenticatorApp.exe
+C:\Users\Jamie\Documents\GitHub\!ToggleExamplesPrototypes\TAuthenticatorApp\TAuthenticatorApp\TAuthenticatorApp\bin\Debug\TAuthenticatorApp.pdb
+C:\Users\Jamie\Documents\GitHub\!ToggleExamplesPrototypes\TAuthenticatorApp\TAuthenticatorApp\TAuthenticatorApp\obj\Debug\TAuthenticatorApp.csproj.AssemblyReference.cache
+C:\Users\Jamie\Documents\GitHub\!ToggleExamplesPrototypes\TAuthenticatorApp\TAuthenticatorApp\TAuthenticatorApp\obj\Debug\TAuthenticatorApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jamie\Documents\GitHub\!ToggleExamplesPrototypes\TAuthenticatorApp\TAuthenticatorApp\TAuthenticatorApp\obj\Debug\TAuthenticatorApp.LandingPageNoSignup.resources
+C:\Users\Jamie\Documents\GitHub\!ToggleExamplesPrototypes\TAuthenticatorApp\TAuthenticatorApp\TAuthenticatorApp\obj\Debug\TAuthenticatorApp.Properties.Resources.resources
+C:\Users\Jamie\Documents\GitHub\!ToggleExamplesPrototypes\TAuthenticatorApp\TAuthenticatorApp\TAuthenticatorApp\obj\Debug\TAuthenticatorApp.csproj.GenerateResource.cache
+C:\Users\Jamie\Documents\GitHub\!ToggleExamplesPrototypes\TAuthenticatorApp\TAuthenticatorApp\TAuthenticatorApp\obj\Debug\TAuthenticatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\Documents\GitHub\!ToggleExamplesPrototypes\TAuthenticatorApp\TAuthenticatorApp\TAuthenticatorApp\obj\Debug\TAuthenticatorApp.exe
+C:\Users\Jamie\Documents\GitHub\!ToggleExamplesPrototypes\TAuthenticatorApp\TAuthenticatorApp\TAuthenticatorApp\obj\Debug\TAuthenticatorApp.pdb
+C:\Users\Jamie\Documents\GitHub\!ToggleExamplesPrototypes\TAuthenticatorApp\TAuthenticatorApp\TAuthenticatorApp\obj\Debug\TAuthenticatorApp.frmCredits.resources
+C:\Users\Jamie\Documents\GitHub\!ToggleExamplesPrototypes\TAuthenticatorApp\TAuthenticatorApp\TAuthenticatorApp\obj\Debug\TAuthenticatorApp.frmMainForm.resources
